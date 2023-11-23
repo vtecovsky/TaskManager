@@ -1,0 +1,5 @@
+.env.local
+/.idea
+__pycache__/
+*.py[cod]
+/.ruff_cache/
